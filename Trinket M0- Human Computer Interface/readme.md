@@ -44,12 +44,11 @@ This repo summarizes all the steps you will need for the outreach project. The r
 3. The other feature of the serial connection is the Read-Evaluate-Print-Loop (REPL): https://learn.adafruit.com/adafruit-trinket-m0-circuitpython-arduino?view=all#the-repl
 
 ## License
-Before making this repository public, a LICENSE should be added to designate permission for use by others.
+This project is licensed under the terms of the MIT license.
 
 These steps have been adapted from the following Adafruit tutorials:
 - https://learn.adafruit.com/adafruit-trinket-m0-circuitpython-arduino/overview
 - https://learn.adafruit.com/adafruit-mpr121-gator
 
 ## Authors
-- Kasey Moomau, 6/2/2022
-- Eric Markvicka, 6/7/2022
+- Kasey Moomau, Eric Markvicka, June 2022
