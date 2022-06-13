@@ -1,4 +1,5 @@
 # SMRL Wearable Technology Outreach Workshop
+https://smr.unl.edu/outreach
 
 ## Project Description
 This repo summarizes all the steps you will need for the outreach project. The repo contains two folders:
